@@ -23,19 +23,7 @@ Costify es una aplicación móvil desarrollada con React Native enfocada en pequ
 
 ### Dashboard
 
-![Dashboard](screenshots/dashboard.png)
-
-### Inventario
-
-![Inventario](screenshots/inventory.png)
-
-### Producción
-
-![Producción](screenshots/production.png)
-
-### Ventas
-
-![Ventas](screenshots/sales.png)
+![Dashboard](screenshots/costify.png)
 
 ## 🚀 APK Beta
 
